@@ -20,7 +20,8 @@
 - 📫 You can reach me through discord   
 - Sometimes I play with different languages
 - I know binary language 
-
+[![CoolSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolSidofficial
+)](https://github.com/CoolSidOfficial/github-readme-stats)
 
 
 
