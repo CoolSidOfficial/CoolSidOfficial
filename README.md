@@ -15,7 +15,7 @@
 
 
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning react 
+- 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on  every project, I get 
 - 📫 You can reach me through discord @CoolSidOfficial 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoolSidOfficial"/>
