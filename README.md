@@ -23,8 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoolSidOfficial"/>
 
 
-[![CoolSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolSidofficial
-)](https://github.com/CoolSidOfficial/github-readme-stats)
+[![CoolSid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
