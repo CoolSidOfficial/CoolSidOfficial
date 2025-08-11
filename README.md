@@ -17,7 +17,7 @@
 
 
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on  every project, I get 
 - 📫 You can reach me through discord @CoolSidOfficial 
 
