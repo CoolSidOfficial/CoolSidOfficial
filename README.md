@@ -1,58 +1,109 @@
 <h1 align="center">Hi 👋, I'm Siddhant Jain (CoolSidOfficial)</h1>
-<h3 align="center">Full Stack Developer | ML Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Scalable Systems | ML Enthusiast</h3>
+
+<p align="center">
+  <a href="https://coolsid.tech">Portfolio</a> •
+  <a href="https://linkedin.com/in/siddhant-jain-coolsidofficial">LinkedIn</a> •
+  <a href="https://github.com/CoolSidOfficial">GitHub</a>
+</p>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
-### 🚀 About Me
-- 💻 Full-stack developer focused on building scalable, real-world applications  
-- 🧠 Interested in **System Design, Cyber Security, and Machine Learning**  
-- ⚙️ Strong experience with modern web stacks and backend architecture  
-- 🎯 Goal: Build impactful tech products & crack top-tier tech roles  
+## 🚀 About Me
+
+* 💻 Full-stack developer building **scalable, production-grade systems**
+* ⚡ Specialized in **low-latency APIs, real-time systems, and backend architecture**
+* 🧠 Exploring **Machine Learning, System Design, and Cyber Security**
+* 🎯 Focused on solving **real-world problems with measurable impact**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,c,cpp,mongodb,mysql,postgres,redis,tailwind,bootstrap,docker,aws,gcp,linux,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,python,java,cpp,ts,js,mongodb,postgres,redis,docker,nginx,aws,azure,linux,git,tailwind" />
 </p>
 
 ---
 
-### 🧩 Featured Projects
+## 🧩 Featured Projects
 
-#### 🔹 CoolForums
-- Scalable full-stack discussion platform  
-- **Tech:** Next.js, Express.js, PostgreSQL, Redis, WebSockets  
-- Features: Nested replies, real-time messaging, upvotes/downvotes  
+### 🔹 CoolGuide
 
-#### 🔹 GeoTrack (SIH Project)
-- Geolocation-based attendance tracking system  
-- **Tech:** React Native, Node.js, MongoDB, GPS, WebSockets  
-- Implemented geofencing & real-time tracking  
+🔗 [Live](https://github.com/CoolSidOfficial/CoolGuide) | [Repo](https://github.com/CoolSidOfficial/CoolGuide)
 
-#### 🔹 CoolGuide (In Progress)
-- ML-based personalized recommendation system  
-- Dynamic filtering based on user preferences (budget, brand, specs)  
+* Built a full-stack **electronics recommendation platform**
+* ⚡ Designed **sub-200ms APIs** for real-time product suggestions
+* 🧠 Implemented **ML-based personalized recommendation system (top-k filtering)**
+* 💰 Integrated **affiliate-based monetization system**
+* **Tech:** FastAPI, Next.js, MongoDB, Scikit-learn, Zustand
 
 ---
 
-### 🛠️ Currently Working On
-- 🤖 Machine Learning & Deep Learning projects  
-- 💬 Real-time applications using WebSockets  
-- 🔐 Cyber Security & Reverse Engineering  
+### 🔹 CoolForums
+
+🔗 [Repo](https://github.com/CoolSidOfficial/FORUMS)
+
+* Developed a **real-time discussion platform** for product-based conversations
+* ⚡ Engineered **low-latency live comment system** using WebSockets + Redis
+* 🐳 Built **Dockerized scalable architecture**
+* **Tech:** Next.js, Express.js, PostgreSQL, Redis, WebSockets
 
 ---
 
-### 🏆 Achievements
-- 🥉 3rd Prize – Debate & Quiz Competition (Google Student Club × Microsoft Student Ambassador)  
-- 🧠 Smart India Hackathon Participant (2023 & 2024)  
-- 🚀 Built multiple full-stack production-level applications  
+### 🔹 CoolCounsel
+
+🔗 [Live](https://coolcounsel.netlify.app/)
+
+* Built a **data-driven college recommendation platform**
+* 📊 Processed **10,000+ DTE records**
+* 👥 Helped **1000+ students** make informed decisions
+* ⚡ Optimized backend APIs for fast response under concurrent usage
+* **Tech:** React, Express.js, MongoDB
 
 ---
 
-### 📊 GitHub Stats
+### 🔹 KNNFitSense
+
+🔗 [Repo](https://github.com/CoolSidOfficial/KNNFitSense)
+
+* Developed an ML-powered **fitness recommendation system**
+* ⚡ Achieved **~100ms prediction latency**
+* 🧠 Generated personalized workout & diet plans using KNN
+* **Tech:** React, Flask, Scikit-learn
+
+---
+
+## 🏢 Experience
+
+### 💼 Full Stack Developer Intern – AICTE IDEALAB
+
+* Built and scaled a platform serving **4000+ students**
+* Implemented **secure authentication (JWT + CSRF protection)**
+* Designed efficient frontend-backend workflows for scalability
+
+---
+
+### 💼 Frontend Developer Intern – KLIC Incubation Center
+
+* Delivered **5+ production-ready applications**
+* Built responsive, user-focused UI systems
+* Collaborated in fast-paced development environments
+
+---
+
+## 🏆 Achievements
+
+* 🧠 Solved **200+ DSA problems**
+* 🚀 Built **20+ full-stack & ML projects**
+* 🏁 **Smart India Hackathon 2023 & 2024 – Semi-Finalist**
+* 🥉 3rd Prize – Debate & Quiz (Google Student Club × Microsoft Student Ambassador)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CoolSidOfficial&show_icons=true&theme=tokyonight" />
@@ -65,26 +116,31 @@
 
 ---
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoolSidOfficial&theme=tokyo-night" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 📫 Connect With Me
-- 💼 LinkedIn: *Add your LinkedIn here*  
-- 📧 Email: *Add your Email here*  
-- 💬 Discord: CoolSidOfficial  
+## 📫 Connect With Me
+
+* 🌐 Portfolio: https://coolsid.tech
+* 💼 LinkedIn: https://linkedin.com/in/siddhant-jain-coolsidofficial
+* 📧 Email: [siddhantjainmvm@gmail.com](mailto:siddhantjainmvm@gmail.com)
+* 💬 Discord: CoolSidOfficial
 
 ---
 
-### ⚡ Fun Fact
-> I love building systems that solve real-world problems and scale 🚀
+## ⚡ Core Strength
+
+> I build **fast, scalable, real-world systems with measurable impact** — not just projects.
