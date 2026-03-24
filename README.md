@@ -45,6 +45,7 @@
 ### 🔹 CoolForums
 
 🔗 [Repo](https://github.com/CoolSidOfficial/FORUMS)
+🔗 [Live](https://forums-self.vercel.app/tabs/categories)
 
 * Developed a **real-time discussion platform** for product-based conversations
 * ⚡ Engineered **low-latency live comment system** using WebSockets + Redis
@@ -54,6 +55,7 @@
 ---
 
 ### 🔹 CoolCounsel
+🔗 [Repo](https://github.com/CoolSidOfficial/KNNFitSense)
 
 🔗 [Live](https://coolcounsel.netlify.app/)
 
@@ -68,6 +70,7 @@
 ### 🔹 KNNFitSense
 
 🔗 [Repo](https://github.com/CoolSidOfficial/KNNFitSense)
+🔗 [Live](https://ml-fitness-sense.vercel.app/)
 
 * Developed an ML-powered **fitness recommendation system**
 * ⚡ Achieved **~100ms prediction latency**
@@ -199,7 +202,7 @@
   🔗 https://github.com/CoolSidOfficial/easy_aircrack-ng  
 
 - **Keylogger (Research Tool)** – Demonstrates input capture and secure log transmission concepts  
-  🔗 https://github.com/CoolSidOfficial/easy_aircrack-ng  
+  🔗https://github.com/CoolSidOfficial/py-keylogger 
 
 - **CoolEncrypt** – Lightweight real-time encryption/decryption tool  
   🔗 https://github.com/CoolSidOfficial/coolencrypt  
