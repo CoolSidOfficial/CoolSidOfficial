@@ -43,8 +43,7 @@
 
 ### 🔹 CoolForums
 
-🔗 [Repo](https://github.com/CoolSidOfficial/FORUMS)
-🔗 [Live](https://forums-self.vercel.app/tabs/categories)
+🔗 [Frontend Repo](https://github.com/CoolSidOfficial/FORUMS)|🔗 [Backend  Repo](https://github.com/CoolSidOfficial/FORUMS)| 🔗 [Live](https://forums-self.vercel.app/tabs/categories)
 
 * Developed a **real-time discussion platform** for product-based conversations
 * ⚡ Engineered **low-latency live comment system** using WebSockets + Redis
@@ -54,9 +53,7 @@
 ---
 
 ### 🔹 CoolCounsel
-🔗 [Repo](https://github.com/CoolSidOfficial/KNNFitSense)
-
-🔗 [Live](https://coolcounsel.netlify.app/)
+🔗 [Repo](https://github.com/CoolSidOfficial/KNNFitSense) |🔗 [Live](https://coolcounsel.netlify.app/)
 
 * Built a **data-driven college recommendation platform**
 * 📊 Processed **10,000+ DTE records**
@@ -96,6 +93,16 @@
 
 ---
 
+---
+
+### ⚡ Fun Facts
+
+- 🧠 I’ve worked with **x86 (NASM) Assembly** to understand software behavior at the binary level  
+- 💻 I can literally write text in **binary (0s and 1s)**  
+- ⏳ Been coding for years — my journey goes back to **2017 on GitHub**  
+  🔗 https://github.com/YOUR_OLD_USERNAME
+
+---
 ## 🏆 Achievements
 
 * 🧠 Solved **200+ DSA problems**
