@@ -32,8 +32,7 @@
 
 ### 🔹 CoolGuide
 
-🔗 [Live](https://github.com/CoolSidOfficial/CoolGuide) | [Repo](https://github.com/CoolSidOfficial/CoolGuide)
-
+🔗 [Live](https://github.com/CoolSidOfficial/CoolGuide) | [Frontend Repo](https://github.com/CoolSidOfficial/CoolGuide) | [Cool Guide  Backend](https://github.com/CoolSidOfficial/coolguide-backend)| [ML Backend Repo](https://github.com/CoolSidOfficial/coolguide_ml_backendhttps://github.com/CoolSidOfficial/coolguide_ml_backend)
 * Built a full-stack **electronics recommendation platform**
 * ⚡ Designed **sub-200ms APIs** for real-time product suggestions
 * 🧠 Implemented **ML-based personalized recommendation system (top-k filtering)**
