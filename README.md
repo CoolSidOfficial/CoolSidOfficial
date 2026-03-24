@@ -98,11 +98,11 @@
 
 ### ⚡ Fun Facts
 
-- 🧠 I’ve worked with **x86 (NASM) Assembly** to understand software behavior at the binary level  
+- 🧠 I’ve worked with **x86 (NASM) Assembly** to understand software behavior at the binary level   🔗[https://github.com/CoolSidOfficial/assembly_lang](https://github.com/CoolSidOfficial/assembly_lang)
+
 - 💻 I can literally write text in **binary (0s and 1s)**  
 - ⏳ Been coding for years — my journey goes back to **2017 on GitHub**  
-  🔗 https://github.com/YOUR_OLD_USERNAME
-
+  🔗https://github.com/siddhantsid
 ---
 ## 🏆 Achievements
 
