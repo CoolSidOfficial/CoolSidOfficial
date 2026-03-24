@@ -32,7 +32,7 @@
 
 ### 🔹 CoolGuide
 
-🔗 [Live](https://github.com/CoolSidOfficial/CoolGuide) | [Frontend Repo](https://github.com/CoolSidOfficial/CoolGuide) | [Cool Guide  Backend](https://github.com/CoolSidOfficial/coolguide-backend)| [ML Backend Repo](https://github.com/CoolSidOfficial/coolguide_ml_backendhttps://github.com/CoolSidOfficial/coolguide_ml_backend)
+🔗 [Live](https://github.com/CoolSidOfficial/CoolGuide) | [Frontend Repo](https://github.com/CoolSidOfficial/CoolGuide) | [Cool Guide  Backend](https://github.com/CoolSidOfficial/coolguide-backend)| [ML Backend Repo](https://github.com/CoolSidOfficial/coolguide_ml_backend)
 * Built a full-stack **electronics recommendation platform**
 * ⚡ Designed **sub-200ms APIs** for real-time product suggestions
 * 🧠 Implemented **ML-based personalized recommendation system (top-k filtering)**
@@ -43,7 +43,8 @@
 
 ### 🔹 CoolForums
 
-🔗 [Frontend Repo](https://github.com/CoolSidOfficial/FORUMS)|🔗 [Backend  Repo](https://github.com/CoolSidOfficial/FORUMS)| 🔗 [Live](https://forums-self.vercel.app/tabs/categories)
+🔗 [Frontend Repo](https://github.com/CoolSidOfficial/FORUMS)|🔗 [Backend  Repo](https://github.com/CoolSidOfficial/forums-backend)| 🔗 [Chat-backend](https://github.com/CoolSidOfficial/coolforums-chatbackend)
+|🔗 [Live](https://forums-self.vercel.app/tabs/categories)
 
 * Developed a **real-time discussion platform** for product-based conversations
 * ⚡ Engineered **low-latency live comment system** using WebSockets + Redis
