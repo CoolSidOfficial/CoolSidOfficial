@@ -144,3 +144,95 @@
 ## ⚡ Core Strength
 
 > I build **fast, scalable, real-world systems with measurable impact** — not just projects.
+
+
+---
+
+## 🧠 Other Noteworthy Projects
+
+### 🤖 Machine Learning
+- **CrimeInsight** – Decision-tree based crime prediction using demographic + temporal data  
+  *Tech:* Scikit-learn, NumPy  
+  🔗 https://github.com/CoolSidOfficial/CrimeInsight  
+
+- **Indian GDP Predictor** – Regression model forecasting economic trends from historical data  
+  *Tech:* Scikit-learn, NumPy  
+  🔗 https://github.com/CoolSidOfficial/Indian_Gdp_Predictor  
+
+---
+
+### 🌐 Web & Full Stack
+- **FIQUA** – Responsive e-commerce frontend for fish marketplace  
+  *Tech:* HTML, CSS, JavaScript  
+  🔗 https://github.com/CoolSidOfficial/fiqua  
+
+- **TextBin** – Binary-to-text conversion web tool with clean UI  
+  *Tech:* Django, Python  
+  🔗 https://github.com/CoolSidOfficial/TextBin  
+
+- **Advocate Portfolio Website** – Production-ready portfolio built with Next.js + TypeScript  
+  🔗 https://github.com/CoolSidOfficial/Advocate-website  
+
+- **B Portfolio Site** – Full-stack portfolio using React + Django backend  
+  🔗 https://github.com/CoolSidOfficial/britney_portfolio  
+
+---
+
+### 🐍 Python Tools & Automation
+- **ImageLoc** – Telegram bot extracting GPS metadata from images  
+  *Tech:* Pyrogram, MongoDB  
+  🔗 https://github.com/CoolSidOfficial/Image_Loc  
+
+- **Report Helper** – CLI tool automating proofreading workflows using Excel + shortcuts  
+  🔗 https://github.com/CoolSidOfficial/Report_Helper  
+
+- **File Arranger (Python)** – Automates folder organization based on file types  
+  🔗 https://github.com/CoolSidOfficial/File_Arranger  
+
+- **GUI Calculator** – Lightweight desktop calculator using Tkinter  
+  🔗 https://github.com/CoolSidOfficial/gui_calc  
+
+---
+
+### 🔐 Cyber Security & Systems (Ethical Use / Research)
+- **EasyAircrack** – Automates wireless network auditing workflows (educational use)  
+  🔗 https://github.com/CoolSidOfficial/easy_aircrack-ng  
+
+- **Keylogger (Research Tool)** – Demonstrates input capture and secure log transmission concepts  
+  🔗 https://github.com/CoolSidOfficial/easy_aircrack-ng  
+
+- **CoolEncrypt** – Lightweight real-time encryption/decryption tool  
+  🔗 https://github.com/CoolSidOfficial/coolencrypt  
+
+---
+
+### ⚙️ Java / C++ Utilities
+- **Java File Arranger** – Offline file organization system  
+  🔗 https://github.com/CoolSidOfficial/Java_file_Arranger  
+
+- **ClsColor.h** – Custom C++ header for simplified ANSI color handling  
+  🔗 https://github.com/CoolSidOfficial/clscolor.h  
+
+- **Indinum Generator** – Generates structured phone number datasets (security testing context)  
+  🔗 https://github.com/CoolSidOfficial/indinum-gen  
+
+---
+
+### 📱 Mobile & Apps
+- **CoolWeather App** – Location-based real-time weather mobile app  
+  *Tech:* React Native  
+  🔗 https://github.com/CoolSidOfficial/CoolWeather_Android  
+
+- **GeoTrack** – Geolocation-based attendance system (SIH project)  
+  🔗 https://github.com/SIH24-KEENDEVS/GeoTrack_app  
+
+---
+
+### 🌍 IoT & Embedded Systems
+- **ESP32 Weather Station** – Sensor-based environmental monitoring system  
+  🔗 https://github.com/CoolSidOfficial/iot-stuff/tree/main/esp32_weather_station  
+
+- **Bhopal AQI Station** – Low-cost air quality monitoring using MQ-135 + ESP8266  
+  🔗 https://github.com/CoolSidOfficial/BhopalAQiStation  
+
+---
